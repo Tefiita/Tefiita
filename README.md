@@ -1,9 +1,13 @@
-## Hi there 👋
+<h1>Hola!, Bienvenidos soy Estefanía Sepúlveda</h1>
 
-<!--
-**Tefiita/Tefiita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Proyectos páginas web:</h2>
 
-Here are some ideas to get you started:
+- <b>Páginas web realizadas en bootcamp Front-End</b>
+  - [E-commerse PetShop](https://github.com/Tefiita/petShop)
+  - [Juego Gato (Tic Tac Toe)](https://github.com/Tefiita/Juego_gato)
+
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
