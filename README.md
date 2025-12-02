@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy **Estefanía Sepúlveda**
 
-### 👩‍💻 Ingeniera Civil Informática | Frontend Lover | Diseñadora de Experiencias  
+### 👩‍💻 Ingeniera Civil Informática | Frontend Lover | Diseñadora de tus ideas  
 Apasionada por el desarrollo web, el diseño UI y la creación de productos digitales simples, funcionales y bonitos. Actualmente reforzando mis habilidades en **Firebase**, **CSS (Sass/BEM/OOCSS/SMACSS)** y diseño frontend.
 
 ---
