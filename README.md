@@ -25,7 +25,7 @@ Actualmente reforzando mis habilidades en **Firebase**, **CSS (Sass/BEM/OOCSS/SM
 ### 🐶 **PetShop — E-commerce**
 Sitio web para la venta de alimentos premium para perros y gatos, con un carro de compra totalmente funcional.  
 **Tecnologías:** HTML, CSS, Bootstrap, JQuery   
-🔗 **Repositorio:** https://github.com/Tefiita/petShop
+🔗 **Repositorio:** https://github.com/Tefiita/petShop  
 ✨ **Extra:** Refactorizado posteriormente a **Vue.js**.
 🔗 **Repositorio:** https://github.com/Tefiita/petShopVue
 
