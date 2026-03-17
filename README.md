@@ -100,7 +100,7 @@ Primera versión del e-commerce desarrollada con tecnologías frontend tradicion
 
 ### Problema
 Mostrar productos de mascotas con información clara y navegación simple.
-
+<details>
 ### Solución
 Se construyó un catálogo web con carrito funcional utilizando JavaScript y manipulación del DOM.
 
@@ -118,7 +118,7 @@ Se construyó un catálogo web con carrito funcional utilizando JavaScript y man
 
 Repositorio:  
 https://github.com/Tefiita/petShop  
-
+</details>
 
 ---
 
@@ -128,7 +128,7 @@ Proyecto orientado a la digitalización de una pequeña clínica veterinaria.
 
 ### Problema
 La clínica registraba la información de pacientes manualmente, lo que dificultaba la organización y consulta de datos.
-
+<details>
 ### Solución
 Se desarrolló una plataforma web simple que permite visualizar y organizar la información de pacientes de manera estructurada.
 
@@ -152,7 +152,7 @@ Se priorizó:
 Repositorio:  
 https://github.com/Tefiita/Veterinaria
 
-
+</details>
 ---
 
 ## 🎮 Tic Tac Toe — Juego Web
@@ -161,7 +161,7 @@ Proyecto práctico para reforzar lógica en JavaScript y diseño con CSS.
 
 ### Problema
 Validar conocimientos en manipulación del DOM y lógica de programación.
-
+<details>
 ### Solución
 Implementación del clásico juego del gato con detección automática de ganador y control de empates.
 
@@ -177,7 +177,7 @@ Implementación del clásico juego del gato con detección automática de ganado
 
 Repositorio:  
 https://github.com/Tefiita/Juego_gato  
-
+</details>
 
 ---
 
