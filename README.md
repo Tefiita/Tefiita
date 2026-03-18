@@ -147,7 +147,7 @@ Se priorizó:
 - Mejor organización de registros  
 - Visualización más clara de información  
 
-**Tecnologías:** HTML · CSS · JavaScript  
+**Tecnologías:** Vue.js · JavaScript · HTML · CSS · Bootstrap · Firebase
 
 Repositorio:  
 https://github.com/Tefiita/Veterinaria
